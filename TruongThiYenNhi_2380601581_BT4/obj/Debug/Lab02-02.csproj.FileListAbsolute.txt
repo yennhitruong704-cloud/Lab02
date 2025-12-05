@@ -1,0 +1,4 @@
+C:\Users\Administrator\source\repos\Lab02\Lab02-02\obj\Debug\Lab02-02.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Lab02\Lab02-02\obj\Debug\Lab02_02.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Lab02\Lab02-02\obj\Debug\Lab02-02.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Lab02\Lab02-02\obj\Debug\Lab02-02.csproj.CoreCompileInputs.cache
